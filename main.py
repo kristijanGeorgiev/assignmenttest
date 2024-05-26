@@ -1,3 +1,5 @@
+from swap import swap
+from extras.desc import descend_numbers_in_words
 a = 0
 b = 2
 result = swap(a, b)
